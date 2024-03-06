@@ -14,6 +14,14 @@ Advisors: Dr. Kostalena Michelaki, Andrea Torvinen
 School of Human Evolution and Social Change  
 Advisor: Dr. Daniel Hruschka
 
+# Experience
+
+- **Ministerial Assistant**  
+*Current, from Jun. 2021*  
+St. John's United Church of Christ  
+Jackson, Michigan  
+Supervisor: Rev. Judith Goodrow
+
 # Skills
 
 - Critical Thinking and Analysis
