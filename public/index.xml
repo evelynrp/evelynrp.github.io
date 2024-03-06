@@ -7,5 +7,12 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/readme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/readme/</guid>
+      <description>Education 2023 - B.S., Anthropology, Arizona State University Research Pan-American Ceramics Project, ASU&#xA;Current, from Jan. 2023&#xA;School of Human Evolution and Social Change&#xA;Advisors: Dr. Kostalena Michelaki, Andrea Torvinen&#xA;Global Inequalities and Health, ASU&#xA;Jan. 2023 - May 2023&#xA;School of Human Evolution and Social Change&#xA;Advisor: Dr. Daniel Hruschka&#xA;Skills Critical Thinking and Analysis Cultural Competence Linux LaTeX Project Management Research and Data Collection Technical writing </description>
+    </item>
   </channel>
 </rss>
