@@ -43,10 +43,14 @@ pygmentsUseClasses = true
   [[params.links]]
     title = "Website"
     href = "https://evelynrp.github.io"
-#  [[params.links]]
-#    title = "Link2"
-#    href = "https://meik2333.com"
-#    icon = "https://meik2333.com/images/avatar.png"
+  [[params.links]]
+    title = "Mastodon"
+    href = "https://kolektiva.social/@bedap"
+    icon = "images/mastodon.png"
+  [[params.links]]
+    title = "Misskey"
+    href = "https://mk.absturztau.be/@steamboatwillie"
+    icon = "images/misskey.png"
 
 [frontmatter]
   lastmod = ["lastmod", ":fileModTime", ":default"]
