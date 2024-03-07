@@ -1,4 +1,4 @@
-baseURL = "https://evelynrp.github.io/"
+baseURL = "https://evelynrosepark.com/"
 languageCode = "en-us"
 title = "Evelyn Park"
 theme = "github-style"
@@ -16,7 +16,7 @@ pygmentsUseClasses = true
 #  instagram = "MeiK2333"
 #  tumblr = "MeiK2333"
   email = "evelynpark@disroot.org"
-  url = "https://evelynrp.github.io"
+  url = "https://evelynrosepark.com/"
 #  keywords = "blog, google analytics"
   rss = true
   lastmod = true
@@ -42,7 +42,7 @@ pygmentsUseClasses = true
 #    proxy = "https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token" # 可以自行添加反向代理
   [[params.links]]
     title = "Website"
-    href = "https://evelynrp.github.io"
+    href = "https://evelynrosepark.com/"
   [[params.links]]
     title = "Mastodon"
     href = "https://kolektiva.social/@bedap"
