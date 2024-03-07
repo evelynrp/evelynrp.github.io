@@ -44,13 +44,25 @@ pygmentsUseClasses = true
     title = "Website"
     href = "https://evelynrosepark.com/"
   [[params.links]]
-    title = "Mastodon"
-    href = "https://kolektiva.social/@bedap"
-    icon = "images/mastodon.png"
+    title = "Discord"
+    href = "https://discord.com/users/1025102936512143403"
+    icon = "images/discord.png"
   [[params.links]]
-    title = "Misskey"
-    href = "https://mk.absturztau.be/@steamboatwillie"
-    icon = "images/misskey.png"
+    title = "Session"
+    href = "images/session-id.svg"
+    icon = "images/session.png"
+  [[params.links]]
+    title = "XMPP"
+    href = "mailto:evelynpark@disroot.org"
+    icon = "images/conversations.png"
+  [[params.links]]
+    title = "Signal"
+    href = "https://signal.me/#eu/-Cfc84TPyTXCToImeJ5Rgtdz6DPqL8NDgp03PnA4YhOSJelmaadK85IKJ5AW-vDV/"
+    icon = "images/signal.svg"
+  [[params.links]]
+    title = "Facebook"
+    href = "https://www.facebook.com/profile.php?id=61556589003356"
+    icon = "images/facebook.png"
 
 [frontmatter]
   lastmod = ["lastmod", ":fileModTime", ":default"]
