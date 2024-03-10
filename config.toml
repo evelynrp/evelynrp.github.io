@@ -1,7 +1,7 @@
 baseURL = "https://evelynrosepark.com/"
 languageCode = "en-us"
 title = "Evelyn Park"
-theme = "github-style"
+theme = "github-style-plus"
 #googleAnalytics = "UA-123456-789"
 pygmentsCodeFences = true
 pygmentsUseClasses = true
@@ -24,6 +24,7 @@ pygmentsUseClasses = true
   avatar = "/images/BhjFlag_Transgender.svg"
   headerIcon = "/images/BlobHajMlem.svg"
   location = "United States"
+  sponsorLink = "https://liberapay.com/evelynrp"
 #  userStatusEmoji = "😀"
 #  enableGitalk = true
 
