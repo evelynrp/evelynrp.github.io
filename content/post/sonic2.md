@@ -2,6 +2,7 @@
 title = 'Sonic 2: Cinematic Masterpiece'
 date = 2024-03-07T01:53:26-05:00
 draft = false
+tags = ['essay']
 +++
 
 *Sonic the Hedgehog 2* is the best thing to happen to cinema in the last 15 years.
