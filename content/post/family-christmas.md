@@ -5,4 +5,4 @@ draft = false
 tags = ['microfiction']
 +++
 
-A banquet was spread before her, and all of it was *treif*.
+A banquet was spread before her, and none of it was kosher.
